@@ -1,5 +1,7 @@
 # Awesome MCP Servers
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/cubiczan-awesome-mcp-servers-wong2-14crod?v=0024c88dd82a0ce3cf9d666b2b4d8961)](https://m8ven.ai/mcp/cubiczan-awesome-mcp-servers-wong2-14crod?s=readme)
+
 > [!NOTE]
 > We do not accept PRs. Please submit your MCP on the website: https://mcpservers.org/submit
 
